@@ -1,5 +1,5 @@
 IMG_NAME='TagTrackerPI'
-TARGET_HOSTNAME=wpilibpi
+TARGET_HOSTNAME=tagtracker
 ENABLE_SSH=1
 PI_GEN=WPILib-pi-gen
 PI_GEN_REPO=https://github.com/allwpilib/FRCVision-pi-gen
