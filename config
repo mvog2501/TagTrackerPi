@@ -1,4 +1,4 @@
-IMG_NAME='WPILibPi'
+IMG_NAME='TagTrackerPI'
 TARGET_HOSTNAME=wpilibpi
 ENABLE_SSH=1
 PI_GEN=WPILib-pi-gen
